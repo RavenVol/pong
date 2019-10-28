@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pong/static/css/main.2f5e8bb3.chunk.css",
+    "main.js": "/pong/static/js/main.2927c062.chunk.js",
+    "main.js.map": "/pong/static/js/main.2927c062.chunk.js.map",
+    "runtime~main.js": "/pong/static/js/runtime~main.a500ca0d.js",
+    "runtime~main.js.map": "/pong/static/js/runtime~main.a500ca0d.js.map",
+    "static/js/2.8a586615.chunk.js": "/pong/static/js/2.8a586615.chunk.js",
+    "static/js/2.8a586615.chunk.js.map": "/pong/static/js/2.8a586615.chunk.js.map",
+    "index.html": "/pong/index.html",
+    "precache-manifest.7d26721121c0eec6fd9cf88976072deb.js": "/pong/precache-manifest.7d26721121c0eec6fd9cf88976072deb.js",
+    "service-worker.js": "/pong/service-worker.js",
+    "static/css/main.2f5e8bb3.chunk.css.map": "/pong/static/css/main.2f5e8bb3.chunk.css.map"
+  }
+}
